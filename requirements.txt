@@ -7,3 +7,4 @@ moderngl
 ttkbootstrap
 pyperclip
 psutil
+soundfile
